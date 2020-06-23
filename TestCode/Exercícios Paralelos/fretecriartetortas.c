@@ -2,6 +2,7 @@
 #include <locale.h>
 
 //Este programa calcula o valor do frete para entrega de tortas.
+//Enviado para o GitHub
 
 int main(){
 	
