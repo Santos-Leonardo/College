@@ -1,4 +1,4 @@
-# Exercise 01
+# Exercise 01.1
 
 print('Those are the operation allowed:')
 print()
@@ -14,16 +14,16 @@ number1 = int(input('Insert the first number: '))
 number2 = int(input('Insert the second number: '))
 
 if operation == '+':
-    print(number1 + number2)
+    print('Result: ', number1 + number2)
 
 elif operation == '-':
-    print(number1 - number2)
+    print('Result: ', number1 - number2)
 
 elif operation == '*':
-    print(number1 * number2)
+    print('Result: ', number1 * number2)
 
 elif operation == '/':
-    print(number1 / number2)
+    print('Result: ', number1 / number2)
 
 else:
     print('An error has happened.')
